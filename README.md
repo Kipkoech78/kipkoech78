@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kipkoech
-## 👀 I’m interested in AI,DATA SCIENCE 
-## Am  Kabarak University student
-## computer science
+### 👀 I’m interested in AI,DATA SCIENCE 
+### Kabarak University student
+### computer science
 ## 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kipkoech78&show_icons=true&theme=radical)
