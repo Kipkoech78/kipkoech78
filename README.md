@@ -2,7 +2,7 @@
 ### 👀 I’m interested in AI,DATA SCIENCE 
 ### Kabarak University student
 ### computer science
-### follow me on  Linkeldn https://www.linkedin.com/in/kipkoech-linus-43764226b/
+### follow me on  Linkeldin https://www.linkedin.com/in/kipkoech-linus-43764226b/
 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kipkoech78&show_icons=true&theme=radical)
