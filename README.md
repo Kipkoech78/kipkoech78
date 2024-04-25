@@ -37,7 +37,6 @@ Email linusngetich78@gmail.com
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kipkoech78)](https://git.io/streak-stats)
 
 
 
