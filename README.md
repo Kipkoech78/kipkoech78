@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Kipkoech
-### 👀 I’m interested in ML,DATA SCIENCE 
 ### Kabarak University student
 ### computer science
 ### Currently working on android  innovative idea.... 
