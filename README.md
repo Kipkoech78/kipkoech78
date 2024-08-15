@@ -6,7 +6,7 @@
 ### follow me on  Linkeldin https://www.linkedin.com/in/kipkoech-linus-43764226b/
 
 
-<a href="https://gitroll.io/profile/ud5GilAKx3JP5vl2icw75E29hWLC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ud5GilAKx3JP5vl2icw75E29hWLC2" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/ud5GilAKx3JP5vl2icw75E29hWLC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ud5GilAKx3JP5vl2icw75E29hWLC2" alt="GitRoll Profile Badge"/></a> -->
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=1200&pause=1000&color=FFF010&center=true&vCenter=true&width=1200&lines=>Kipkoech is passionate and Certified to build and provide support to any system across Kenya" alt="Typing SVG" />
