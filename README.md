@@ -18,6 +18,23 @@
 
 
  <h2>📊 My GitHub Stats</h2>
+
+ ---
+
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=laytonmusyoki&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/laytonmusyoki/github-stats">
+</p>
+
+ ---
+
+ <p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=laytonmusyoki&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=laytonmusyoki&theme=react" />
+</p>
+
+
+
+ ---
  
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kipkoech78&show_icons=true&theme=radical)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kipkoech78-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kipkoech78&theme=tokyonight)](https://git.io/streak-stats) ![](https://komarev.com/ghpvc/?username=kipkoech78&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS) ![Alt text]([https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true](https://open.spotify.com/playlist/7EnIitpBIDp8hbqoaOWfQO?si=c8f756bbd2cf4abf))
