@@ -3,7 +3,7 @@
 ### computer science
 ### Currently working on android  innovative idea.... 
 ### fine tune skills got from ML are real in real life.. Be close and You will be tunned fine😂
-### follow me on  Linkeldin https://www.linkedin.com/in/kipkoech-linus-43764226b/
+### follow me on  Linkeldin www.linkedin.com/in/kipkoech-linus-934b07347
 
 
 <!-- <a href="https://gitroll.io/profile/ud5GilAKx3JP5vl2icw75E29hWLC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ud5GilAKx3JP5vl2icw75E29hWLC2" alt="GitRoll Profile Badge"/></a> -->
