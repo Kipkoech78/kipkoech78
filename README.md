@@ -2,8 +2,9 @@
 ### Kabarak University student
 ### computer science
 ### Currently working on android  innovative idea.... 
-### fine tune skills got from ML are real in real life.. Be close and You will be tunned fine😂
-### follow me on  Linkeldin www.linkedin.com/in/kipkoech-linus-934b07347
+### "Still debugging life like it's legacy code... but Android Studio crashes less than my sleep schedule!" 😅😂
+### my Portfolio: https://portfolio-k2o3.onrender.com
+### follow me on  Insagram https://www.instagram.com/kajiks_78?igsh=OHZ5ZjM5c2h5cjQ2
 
 
 <!-- <a href="https://gitroll.io/profile/ud5GilAKx3JP5vl2icw75E29hWLC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ud5GilAKx3JP5vl2icw75E29hWLC2" alt="GitRoll Profile Badge"/></a> -->
