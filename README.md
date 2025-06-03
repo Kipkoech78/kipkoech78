@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Kipkoech
 ### Kabarak University student
 ### computer science
-### Currently working on android  innovative idea.... 
-### "Still debugging life like it's legacy code... but Android Studio crashes less than my sleep schedule!" 😅😂
+### "Still debugging life like it's legacy code... but Android Studio crashes less than my sleep schedule 😅😂!" 
 ### my Portfolio: https://portfolio-k2o3.onrender.com
 ### follow me on  Insagram https://www.instagram.com/kajiks_78?igsh=OHZ5ZjM5c2h5cjQ2
 
