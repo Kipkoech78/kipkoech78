@@ -45,8 +45,8 @@ Email linusngetich78@gmail.com
 
   <div style="flex: 50%; padding: 10px;">
    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipkoech78&layout=compact&theme=tokyonight)](https://github.com/kipkoech78/github-readme-stats)
+ 
+ <!--           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipkoech78&layout=compact&theme=tokyonight)](https://github.com/kipkoech78/github-readme-stats)   -->
 <img src="https://github-readme-stats.vercel.app/api?username=Kipkoech78&show_icons=true" alt="GitHub Stats" />
   </div> 
 
