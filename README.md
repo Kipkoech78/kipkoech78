@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kipkoech
-### Kabarak University student
-### computer science
+### Software developer,,
+### computer science Kabarak University student
 ### "Still debugging life like it's legacy code... but Android Studio crashes less than my sleep schedule 😅😂!" 
 ### my Portfolio: https://portfolio-k2o3.onrender.com
 ### follow me on  Insagram https://www.instagram.com/kajiks_78?igsh=OHZ5ZjM5c2h5cjQ2
@@ -45,10 +45,10 @@ Email linusngetich78@gmail.com
 
   <div style="flex: 50%; padding: 10px;">
    
-<!-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipkoech78&layout=compact&theme=tokyonight)](https://github.com/kipkoech78/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=Kipkoech78&show_icons=true" alt="GitHub Stats" />
-  </div> -->
+  </div> 
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📈 Most Used Languages</h2>
