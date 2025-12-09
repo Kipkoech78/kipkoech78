@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kipkoech
 ### Software developer,,
-### Open for January- April attachment Opportunity
+## Open for January- April 2026 attachment Opportunity
 ### computer science Kabarak University student
 ### Commiting to code more than relationships — at least Git remembers my history. 🐙😂 
 ### my Portfolio: https://portfolio-k2o3.onrender.com
